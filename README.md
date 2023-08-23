@@ -7,5 +7,5 @@ Important projects:
 My Minecraft servers:  
 There are nothing here currently :(  
 [My Minecraft server rules](/server_rules.txt)  
-![License Icon](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
-Except where otherwise noted, content on this site is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.    
+![License Icon](http://i.creativecommons.org/p/zero/1.0/88x31.png)  
+Except where otherwise noted, content on this site is licensed under a [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/) license.    
