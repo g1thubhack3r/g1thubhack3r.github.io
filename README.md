@@ -7,4 +7,4 @@ Important projects:
 My Minecraft servers:  
 There are nothing here currently :(  
 [My Minecraft server rules](/server_rules.txt)  
-Except where otherwise noted, content on this site is in the public domain.
+Except where otherwise noted, content on this site is under a [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).  
